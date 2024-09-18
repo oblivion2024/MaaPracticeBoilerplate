@@ -34,7 +34,7 @@
 
 2. 下载 MaaFramework 的 [Release 包](https://github.com/MaaXYZ/MaaFramework/releases)，解压到 `deps` 文件夹中。
 
-3. 配置资源文件。
+3. 配置资源文件。test
 
     ```bash
     python ./configure.py
